@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Twiggy</string>
+    <string name="enter_your_mobile_number_to_get_otp">Enter your mobile number to get OTP</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="by_clicking_i_accept_the_terms_of_service_and_nprivacy_policy">By clicking, I accept the terms of service and \nprivacy policy</string>
+    <string name="verify_with_otp_sent_to">Verify with OTP sent to</string>
+    <string name="didn_t_recieve_the_code">Didn\'t recieve the code ?</string>
+    <string name="devloped_by_kashyap">Devloped by Kashyap</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_black">#3E1E1D1D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#f13f01</color>
+    <color name="actionbar">#f13f01</color>
+    <color name="lightorange">#E65F30</color>
+    <color name="text">#c5c4bc</color>
+    <color name="red">#E10303</color>
+    <color name="down">#262221</color>
+    <color name="background">#FFFFFF</color>
+    <color name="splash3"> #ff6e40</color>
+    <color name="splashne2">#ff9a8d</color>
+    <color name="splash1">#320d3e</color>
+</resources>

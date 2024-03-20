@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Define your cursive font -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/cursive" /> <!-- Replace "your_cursive_font" with the actual file name -->
+
+</font-family>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152769307066",
+    "project_id": "twiggyauth",
+    "storage_bucket": "twiggyauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152769307066:android:35c32ff086b02b9102bd83",
+        "android_client_info": {
+          "package_name": "com.example.twiggy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLizLmEXVHxNzyqjn4OKzPfB1o_GkJoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
