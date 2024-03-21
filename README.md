@@ -8,10 +8,6 @@ Twiggy is a clone of the popular food delivery app Swiggy, focusing on replicati
 - **Dark Mode**: Implemented a dynamic dark mode feature allowing users to switch between light and dark themes seamlessly.
 - **User-friendly Interface**: Designed with a focus on intuitive user experience and sleek aesthetics.
 
-## Screenshots
-
-[Insert screenshots or link to screenshots here]
-
 ## Technologies Used
 
 - Android Studio
